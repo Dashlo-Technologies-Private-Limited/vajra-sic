@@ -2681,7 +2681,7 @@ app.get("/", (_req: Request, res: Response) => {
 
     <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full sub-card text-[11px] text-amber-700 dark:text-amber-400 uppercase tracking-widest font-bold mb-4">
       <span class="w-2 h-2 rounded-full bg-amber-500 animate-ping"></span>
-      HZL AI Hackathon 2026 &bull; Zawarmala Underground Complex
+      Short Interval Control &bull; Productivity Target: 51T → 60T Metal/yr/Person
     </div>
 
 
