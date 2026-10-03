@@ -2686,7 +2686,7 @@ app.get("/", (_req: Request, res: Response) => {
 
 
     <h1 class="text-4xl md:text-6xl font-black tracking-widest text-slate-900 dark:text-white mb-2">V A J R A</h1>
-    <p class="text-xs text-cyan-600 dark:text-cyan-400 font-extrabold tracking-widest uppercase mb-3">Short Interval Control &bull; Productivity Target: 51T &rarr; 60T Metal/yr/Person</p>
+    <p class="text-xs text-cyan-600 dark:text-cyan-400 font-extrabold tracking-widest uppercase mb-3">Vehicle, Asset ;& Job Roster Administration</p>
     <p class="text-xs text-slate-600 dark:text-slate-400 max-w-lg mb-8 leading-relaxed">
       Automated SIC Dispatch &bull; Real-Time Hourly Plan vs Actual &bull; 40-Equipment Fleet Status Ledger &bull; Upcoming Shift Face Planning &bull; DGMS Statutory Handover
     </p>
