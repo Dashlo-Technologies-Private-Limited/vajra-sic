@@ -2826,7 +2826,7 @@ app.get("/", (_req: Request, res: Response) => {
     <nav class="flex gap-1.5 my-4 border-b border-slate-200 dark:border-slate-800 pb-2 text-xs overflow-x-auto">
       <button onclick="tab('kpis')" id="tab-kpis" class="px-3 py-2 rounded-xl text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white whitespace-nowrap font-bold">★ Target &amp; KPIs</button>
       <button onclick="tab('breakdownlogs')" id="tab-breakdownlogs" class="px-3 py-2 rounded-xl text-amber-500 hover:text-amber-400 whitespace-nowrap font-black flex items-center gap-1">
-        <span>⚡</span> 13. Fleet Breakdown &amp; Status Logs (40)
+        <span>⚡</span> Fleet Breakdown &amp; Status Logs 
       </button>
       <button onclick="tab('upcomingplan')" id="tab-upcomingplan" class="px-3 py-2 rounded-xl text-cyan-500 hover:text-cyan-400 whitespace-nowrap font-black flex items-center gap-1">
         <span>🎯</span> 14. Upcoming Shift Face &amp; Task Planner
