@@ -2829,7 +2829,7 @@ app.get("/", (_req: Request, res: Response) => {
         <span>⚡</span> Fleet Breakdown &amp; Status Logs 
       </button>
       <button onclick="tab('upcomingplan')" id="tab-upcomingplan" class="px-3 py-2 rounded-xl text-cyan-500 hover:text-cyan-400 whitespace-nowrap font-black flex items-center gap-1">
-        <span>🎯</span> 14. Upcoming Shift Face &amp; Task Planner
+        <span>🎯</span> Upcoming Shift Face &amp; Task Planner
       </button>
       <button onclick="tab('losstree')" id="tab-losstree" class="px-3 py-2 rounded-xl text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white whitespace-nowrap font-bold">1. Loss Tree</button>
       <button onclick="tab('faces')" id="tab-faces" class="px-3 py-2 rounded-xl text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white whitespace-nowrap font-bold">2. Face Readiness</button>
