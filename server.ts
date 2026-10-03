@@ -2886,7 +2886,7 @@ app.get("/", (_req: Request, res: Response) => {
     </div>
 
 
-    <!-- NEW TAB 13: FLEET BREAKDOWN & STATUS LOGS (ALL 40 HEMM) -->
+    <!-- NEW TAB : FLEET BREAKDOWN & STATUS LOGS  -->
     <div id="pane-breakdownlogs" class="hidden space-y-6 text-xs">
       <!-- Status Counters Bar -->
       <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
