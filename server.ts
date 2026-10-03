@@ -265,7 +265,7 @@ export interface ShiftLossTree {
 // 2. EMBEDDED IN-MEMORY STORE
 // ========================================================
 const users: User[] = [
-  { id: 1, name: "Nand Lal Swami (Mine Manager)", tokenNo: "HZL-MM-01", email: "manager@hzl.com", password: "123", role: "admin" },
+  { id: 1, name: "Anumulla Mallesh (Mine Manager)", tokenNo: "HZL-MM-01", email: "manager@hzl.com", password: "123", role: "admin" },
   { id: 2, name: "Dushyant Tailor (Shift Incharge)", tokenNo: "HZL-SIC-09", email: "incharge@hzl.com", password: "123", role: "shift_incharge" },
   { id: 3, name: "AAC Operations Deck", tokenNo: "AAC-BP-12", email: "bp@hzl.com", password: "123", role: "bp_incharge" },
   { id: 4, name: "Komatsu Field Service", tokenNo: "OEM-KM-88", email: "oem.komatsu@hzl.com", password: "123", role: "oem_rep", oemCompany: "Komatsu" },
