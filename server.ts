@@ -2796,7 +2796,7 @@ app.get("/", (_req: Request, res: Response) => {
         <div>
           <div class="text-sm font-black tracking-widest text-slate-900 dark:text-white flex items-center gap-2">
             <span>VAJRA // HZL MINE SHORT INTERVAL CONTROL PLATFORM</span>
-            <span class="px-2 py-0.5 rounded-full text-[10px] bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-400 border border-emerald-300 dark:border-emerald-700 font-bold">40 HEMM SYNC</span>
+            <span class="px-2 py-0.5 rounded-full text-[10px] bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-400 border border-emerald-300 dark:border-emerald-700 font-bold">LIVE SYNC</span>
           </div>
           <p class="text-[10px] text-slate-500 dark:text-slate-400 font-semibold">SHIFT B (16:00 - 00:00) &bull; TARGET 51T &rarr; 60T METAL/YR/PERSON &bull; HZL ZAWARMALA COMPLEX</p>
         </div>
